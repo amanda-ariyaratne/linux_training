@@ -1,0 +1,6 @@
+dn: cn=replicationuser,ou=system,dc=ltacademy,dc=com
+objectClass: organizationalRole
+objectClass: simpleSecurityObject
+cn: replicationuser
+description: Replication User
+userPassword: 12345
