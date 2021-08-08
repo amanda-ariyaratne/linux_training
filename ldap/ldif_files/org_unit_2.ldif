@@ -1,0 +1,9 @@
+dn: ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: permanent
+description: LT Academy Permanent Staff
+
+dn: ou=contractor,ou=staff,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: contractor
+description: LT Academy Contractor Staff
