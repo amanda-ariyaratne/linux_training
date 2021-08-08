@@ -1,0 +1,14 @@
+dn: ou=staff,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: staff
+description: LT Academy Staff
+
+dn: ou=books,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: books
+description: LT Academy Books
+
+dn: ou=system,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: system
+description: LT Academy System
